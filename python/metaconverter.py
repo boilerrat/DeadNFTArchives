@@ -4,40 +4,40 @@ import os
 from pathlib import Path
 
 def parse_xml_to_json(xml_content):
-    # Your existing XML parsing logic...
-    # Returns json.dumps(combined_metadata, indent=4)
+    # Placeholder for your XML parsing logic
+    root = ET.fromstring(xml_content)
+    metadata = {"example": "Adjust this logic to parse your XML structure."}
+    return json.dumps(metadata, indent=4)
 
-def find_xml_file(show_directory):
-    # Assuming there's only one XML file per show directory
-    for file in os.listdir(show_directory):
-        if file.endswith('.xml'):
-            return os.path.join(show_directory, file)
+def find_xml_file(show_directory, filename):
+    # Check for a specific XML file in the show directory
+    xml_file_path = os.path.join(show_directory, filename)
+    if os.path.exists(xml_file_path):
+        return xml_file_path
     return None
 
 def process_show(show_date, project_directory):
-    # Constructing directory paths
-    year = "19" + show_date[2:4]  # Assuming all shows are in the 1900s
+    # Adjusted to match your directory structure without adding '19'
+    year = show_date[:2]  # Extracting '81' from '81-03-05'
     show_directory = Path(project_directory) / year / f'GD{show_date}'
     json_directory = Path(project_directory) / "json"
     json_directory.mkdir(exist_ok=True)  # Ensure json directory exists
-    
-    xml_file_path = find_xml_file(show_directory)
-    if not xml_file_path:
-        print(f"No XML file found for show GD{show_date}.")
+
+    meta_xml_path = find_xml_file(show_directory, 'meta.xml')
+    if not meta_xml_path:
+        print(f"Missing meta.xml for show GD{show_date}. Check directory and filename.")
         return
 
-    # Processing XML to JSON
-    with open(xml_file_path, 'r', encoding='utf-8') as file:
+    with open(meta_xml_path, 'r', encoding='utf-8') as file:
         xml_content = file.read()
     json_output = parse_xml_to_json(xml_content)
 
-    # Saving JSON output
     output_file_path = json_directory / f'GD{show_date}.json'
     with open(output_file_path, 'w', encoding='utf-8') as file:
         file.write(json_output)
     print(f"Processed and saved JSON for GD{show_date}.")
 
 # Example usage
-project_directory = '/path/to/DeadNFTArchives'
-show_date = '81-03-05'  # Example show date
+project_directory = '/media/boilerrat/Jerry/DeadNFTArchives'
+show_date = '81-03-05'
 process_show(show_date, project_directory)
