@@ -1,0 +1,1794 @@
+<files>
+<script/>
+<file name="Gd81-03-05S1T01Crowd.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T01Crowd.flac</original>
+<mtime>1510514057</mtime>
+<size>15944</size>
+<md5>7c27c4c72d8f10e6c20fc0f44d38ab64</md5>
+<crc32>06c78226</crc32>
+<sha1>3b0b7d0707fdf3ddac29e8f414e648227b1c6b4b</sha1>
+</file>
+<file name="Gd81-03-05S1T01Crowd.flac" source="original">
+<format>24bit Flac</format>
+<length>68.87</length>
+<title>gd81-03-05 s1 t01 Crowd</title>
+<mtime>1510363191</mtime>
+<size>25590217</size>
+<md5>35a6a072256672179cbdd13dc634bab6</md5>
+<crc32>23bb3c6a</crc32>
+<sha1>69479bb561e42c4198e4d4f8b15df487b806631f</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>01</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:0007152d-a8e6-4ebc-b800-ae4a048bf5f0</external-identifier>
+</file>
+<file name="Gd81-03-05S1T01Crowd.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t01 Crowd</title>
+<track>01</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>180</bitrate>
+<length>01:08</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T01Crowd.flac</original>
+<mtime>1510511065</mtime>
+<size>1554944</size>
+<md5>28e4e4feec89cceb2b6e58e084dd1a07</md5>
+<crc32>cdc6b45c</crc32>
+<sha1>7f6729357e66043fae41bffa750da22cae6c157b</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T01Crowd.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T01Crowd.flac</original>
+<mtime>1510512631</mtime>
+<size>906733</size>
+<md5>08c52f1e2c13eb3382a4873d7b5db666</md5>
+<crc32>89f0c1d6</crc32>
+<sha1>14e01f84903c831b1e394ea5e3a77c96e54d4e82</sha1>
+<length>68.87</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T01Crowd.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T01Crowd.flac</original>
+<mtime>1510513768</mtime>
+<size>9462</size>
+<md5>65f612f29d09f293ea0bdb525b3d15d5</md5>
+<crc32>75835950</crc32>
+<sha1>25bd2f615e51dc8ed4b124df200a5e96bdb3e6fb</sha1>
+</file>
+<file name="Gd81-03-05S1T01Crowd_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T01Crowd.flac</original>
+<mtime>1510514045</mtime>
+<size>227414</size>
+<md5>18e9c53bcfcb8d9121e9125ca5ae76ca</md5>
+<crc32>257a5aad</crc32>
+<sha1>a958c1d4d3bd974711cf5f8579fd0fbc79fcefa5</sha1>
+</file>
+<file name="Gd81-03-05S1T02AlabamaGetaway.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T02AlabamaGetaway.flac</original>
+<mtime>1510514566</mtime>
+<size>61296</size>
+<md5>8bee9f3fc9cb2e0f6ca0b515b7fa29b5</md5>
+<crc32>8e7d32c6</crc32>
+<sha1>c3c0cac5833714b91ab1ed2dc7ffb73d375a5daf</sha1>
+</file>
+<file name="Gd81-03-05S1T02AlabamaGetaway.flac" source="original">
+<format>24bit Flac</format>
+<length>319.83</length>
+<title>gd81-03-05 s1 t02 Alabama Getaway</title>
+<mtime>1510363314</mtime>
+<size>126230403</size>
+<md5>1cd4d6a8eae391f9ada33a8968976f42</md5>
+<crc32>fa4cbcaa</crc32>
+<sha1>fdd99292a54271ee47b7a31035b1fa86d6a0e792</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>02</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:696baac6-d02e-4e94-8985-4e29308ab204</external-identifier>
+</file>
+<file name="Gd81-03-05S1T02AlabamaGetaway.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t02 Alabama Getaway</title>
+<track>02</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>191</bitrate>
+<length>05:19</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T02AlabamaGetaway.flac</original>
+<mtime>1510511156</mtime>
+<size>7656960</size>
+<md5>c371f8757241e1f7fca7119975c77fb7</md5>
+<crc32>4d24c176</crc32>
+<sha1>dcae7e0cc07329c6734ab2995f2db91dcf90ef85</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T02AlabamaGetaway.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T02AlabamaGetaway.flac</original>
+<mtime>1510512365</mtime>
+<size>4163207</size>
+<md5>f3c0b05d68860e2ee32daa928b54c026</md5>
+<crc32>ff465782</crc32>
+<sha1>65122117f1bb59ae355da2b610b817e49465a30b</sha1>
+<length>319.83</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T02AlabamaGetaway.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T02AlabamaGetaway.flac</original>
+<mtime>1510513749</mtime>
+<size>11729</size>
+<md5>fcfa3ceebef9e9a821d7af8e8efd8f42</md5>
+<crc32>9aed231f</crc32>
+<sha1>92b250a0d2f07f3d9ad9dcbaa68c91cff888e60f</sha1>
+</file>
+<file name="Gd81-03-05S1T02AlabamaGetaway_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T02AlabamaGetaway.flac</original>
+<mtime>1510513822</mtime>
+<size>196708</size>
+<md5>3936484aec951fe40bd7b6f44057244e</md5>
+<crc32>e0ce8787</crc32>
+<sha1>7238c29d1a68e383d71dc2fa0698cb6dcfc11dc7</sha1>
+</file>
+<file name="Gd81-03-05S1T03GreatestStoryEverTold.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T03GreatestStoryEverTold.flac</original>
+<mtime>1510514515</mtime>
+<size>44800</size>
+<md5>96f5b7c1124c8ddba7af5ed5829d5924</md5>
+<crc32>aeb84935</crc32>
+<sha1>6af4f62d03b93cfc0c1c9534fc7b8d16d8133d93</sha1>
+</file>
+<file name="Gd81-03-05S1T03GreatestStoryEverTold.flac" source="original">
+<format>24bit Flac</format>
+<length>246.6</length>
+<title>gd81-03-05 s1 t03 Greatest Story Ever Told</title>
+<mtime>1510363388</mtime>
+<size>96933324</size>
+<md5>2330aa188a4abdc2178576289d258c6b</md5>
+<crc32>0ccaea18</crc32>
+<sha1>1b6b9998c356cf6d9ad05efdca56055005f9ffd8</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>03</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:098af0d4-8a96-4600-9c96-7f71a66fef6b</external-identifier>
+</file>
+<file name="Gd81-03-05S1T03GreatestStoryEverTold.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t03 Greatest Story Ever Told</title>
+<track>03</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>04:06</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T03GreatestStoryEverTold.flac</original>
+<mtime>1510511203</mtime>
+<size>5856256</size>
+<md5>0dba2a949b70e455fffb3816432f2200</md5>
+<crc32>a3b4b9a6</crc32>
+<sha1>9d0a465a851afdf99e09458c69b23352573bd0b0</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T03GreatestStoryEverTold.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T03GreatestStoryEverTold.flac</original>
+<mtime>1510512456</mtime>
+<size>3215696</size>
+<md5>3c104afb3b1a2dbed7c47ed3a5c343c0</md5>
+<crc32>cd122e3e</crc32>
+<sha1>522533fa028b6781f2f4f7f0397a5a77a43e894a</sha1>
+<length>246.6</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T03GreatestStoryEverTold.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T03GreatestStoryEverTold.flac</original>
+<mtime>1510513783</mtime>
+<size>11203</size>
+<md5>7230cf527fcb314f023e37119f414dec</md5>
+<crc32>c34c32bd</crc32>
+<sha1>9f4d827c2bf4fdedcad6cbe7001b8438ec8b1d33</sha1>
+</file>
+<file name="Gd81-03-05S1T03GreatestStoryEverTold_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T03GreatestStoryEverTold.flac</original>
+<mtime>1510513900</mtime>
+<size>205539</size>
+<md5>34b6f4611dd822f9befbcdfbe4cf4638</md5>
+<crc32>35242045</crc32>
+<sha1>29ca2f5d7611e1ffd316548f07fdd700e701b99c</sha1>
+</file>
+<file name="Gd81-03-05S1T04FriendOfTheDevil.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T04FriendOfTheDevil.flac</original>
+<mtime>1510514544</mtime>
+<size>102040</size>
+<md5>a4ec2300c3bd3537e70c478de5e5a659</md5>
+<crc32>91db451d</crc32>
+<sha1>c7af0768aee0266de7fa3a756a94f98289dc5ae2</sha1>
+</file>
+<file name="Gd81-03-05S1T04FriendOfTheDevil.flac" source="original">
+<format>24bit Flac</format>
+<length>568.35</length>
+<title>gd81-03-05 s1 t04 Friend Of The Devil</title>
+<mtime>1510363528</mtime>
+<size>220500438</size>
+<md5>c3851e5dae8fbf3ede7f09022ec8f586</md5>
+<crc32>0fc402da</crc32>
+<sha1>e4eb9ff29b841515b42763c233b558b85573b75c</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>04</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:d6d06a86-e93a-4c9f-b8cf-a17b85a09dac</external-identifier>
+</file>
+<file name="Gd81-03-05S1T04FriendOfTheDevil.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t04 Friend Of The Devil</title>
+<track>04</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>188</bitrate>
+<length>09:28</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T04FriendOfTheDevil.flac</original>
+<mtime>1510511126</mtime>
+<size>13374464</size>
+<md5>4b829f045e0955746d2a692abe28a9ca</md5>
+<crc32>f27e11ae</crc32>
+<sha1>ad8f2556ae7de6262815b96902efdf0fbe770a44</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T04FriendOfTheDevil.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T04FriendOfTheDevil.flac</original>
+<mtime>1510512959</mtime>
+<size>7366016</size>
+<md5>913a8e36345b487db53224a87afc5943</md5>
+<crc32>ea9802b7</crc32>
+<sha1>35d3927ae10ae41af283b984935ac662f8837ef3</sha1>
+<length>568.35</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T04FriendOfTheDevil.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T04FriendOfTheDevil.flac</original>
+<mtime>1510513604</mtime>
+<size>9529</size>
+<md5>e115f84285a54fb4a2f196b7b10f554d</md5>
+<crc32>e24ac0e0</crc32>
+<sha1>955a9f29d2c712ce56c589c1b76b86c62e8a9a19</sha1>
+</file>
+<file name="Gd81-03-05S1T04FriendOfTheDevil_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T04FriendOfTheDevil.flac</original>
+<mtime>1510513794</mtime>
+<size>180695</size>
+<md5>0512eb57ff92d31f7a6a9466ff912833</md5>
+<crc32>21db02b6</crc32>
+<sha1>b81654704ae422f6064d2858cac985e3ba096e71</sha1>
+</file>
+<file name="Gd81-03-05S1T05CcRider.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T05CcRider.flac</original>
+<mtime>1510514189</mtime>
+<size>88720</size>
+<md5>9b517a34b67536bd96a1787c35b93165</md5>
+<crc32>9527260f</crc32>
+<sha1>4f486a8957a2db377ab9751db5bf88f2f0cab3ea</sha1>
+</file>
+<file name="Gd81-03-05S1T05CcRider.flac" source="original">
+<format>24bit Flac</format>
+<length>466.81</length>
+<title>gd81-03-05 s1 t05 CC Rider</title>
+<mtime>1510363654</mtime>
+<size>182139853</size>
+<md5>be347b02ae7c4df0e97de140a649ed72</md5>
+<crc32>998640a8</crc32>
+<sha1>b9e4766b97b0d7838494c6f45cc94d45e3376d2b</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>05</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:3d38ccba-27ce-4168-91ce-4f3449267611</external-identifier>
+</file>
+<file name="Gd81-03-05S1T05CcRider.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t05 CC Rider</title>
+<track>05</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>189</bitrate>
+<length>07:46</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T05CcRider.flac</original>
+<mtime>1510511186</mtime>
+<size>11032576</size>
+<md5>eb42dc26613a644a4b7bcf370740ed48</md5>
+<crc32>74393cde</crc32>
+<sha1>fcf6bb6081a06ba0b9678c69bb0aec464f761dda</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T05CcRider.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T05CcRider.flac</original>
+<mtime>1510512278</mtime>
+<size>6039761</size>
+<md5>adbedb64af7f34a2c513908643b64175</md5>
+<crc32>2a3b5456</crc32>
+<sha1>5abb85e0766c5683837952cba31fc6e225bfb0b1</sha1>
+<length>466.81</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T05CcRider.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T05CcRider.flac</original>
+<mtime>1510513630</mtime>
+<size>11258</size>
+<md5>959d2762e8b9bfb039352531040a7eec</md5>
+<crc32>12670a45</crc32>
+<sha1>3d3475d2e1befbd23912fd5e4dfd9f34b30e65c7</sha1>
+</file>
+<file name="Gd81-03-05S1T05CcRider_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T05CcRider.flac</original>
+<mtime>1510513867</mtime>
+<size>187179</size>
+<md5>44a085d8d594955be9313dd41edb83f4</md5>
+<crc32>0b5b93f6</crc32>
+<sha1>830f2abaafcbf8e63049ced1c0c6f9818cccf86b</sha1>
+</file>
+<file name="Gd81-03-05S1T06Althea.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T06Althea.flac</original>
+<mtime>1510514265</mtime>
+<size>85328</size>
+<md5>33908ce439b8e19d5b8b6dc65b21c53a</md5>
+<crc32>7eb8b037</crc32>
+<sha1>e07ed67009bbbbe06f7662038f17676c92c3c0fb</sha1>
+</file>
+<file name="Gd81-03-05S1T06Althea.flac" source="original">
+<format>24bit Flac</format>
+<length>488.08</length>
+<title>gd81-03-05 s1 t06 Althea</title>
+<mtime>1510363752</mtime>
+<size>189520532</size>
+<md5>daa8b8c8e847ff7d8032c83a050707cf</md5>
+<crc32>d05016f2</crc32>
+<sha1>2dfc9e01095c882e6d4baf8362c885269263f244</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>06</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:e603c2a6-2f48-40ae-b884-05e0891e8f34</external-identifier>
+</file>
+<file name="Gd81-03-05S1T06Althea.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t06 Althea</title>
+<track>06</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>187</bitrate>
+<length>08:08</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T06Althea.flac</original>
+<mtime>1510511245</mtime>
+<size>11393536</size>
+<md5>d3de3f8b61680e7d98a0801e64ea9c39</md5>
+<crc32>711ce288</crc32>
+<sha1>44fd30537700b5dec8e38ef1badb9520c75e3e30</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T06Althea.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T06Althea.flac</original>
+<mtime>1510512122</mtime>
+<size>6313298</size>
+<md5>1ba0c7f1a523be5d236a00cb0ea42f50</md5>
+<crc32>23cd8b70</crc32>
+<sha1>2f27f924d5e4b5e93be547f3c9066bfe2d89af58</sha1>
+<length>488.08</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T06Althea.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T06Althea.flac</original>
+<mtime>1510513393</mtime>
+<size>10034</size>
+<md5>b4268afe0820f4bbad258587f8790465</md5>
+<crc32>c38869b7</crc32>
+<sha1>a59560447cecd32286161d65fe2f6c14bd592818</sha1>
+</file>
+<file name="Gd81-03-05S1T06Althea_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T06Althea.flac</original>
+<mtime>1510514042</mtime>
+<size>183797</size>
+<md5>f674b95d5440093b6e9b5dee25bb27c1</md5>
+<crc32>a915c764</crc32>
+<sha1>e6a1dd96ac2e3a7006d95515c76ce238d4dab500</sha1>
+</file>
+<file name="Gd81-03-05S1T07MamaTried.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T07MamaTried.flac</original>
+<mtime>1510514401</mtime>
+<size>29496</size>
+<md5>4edf3fe97642b21961375a229dacdcce</md5>
+<crc32>0a8298a7</crc32>
+<sha1>c4e6ce6c87a669b914bf8c501556c6637dcfc8a8</sha1>
+</file>
+<file name="Gd81-03-05S1T07MamaTried.flac" source="original">
+<format>24bit Flac</format>
+<length>152.6</length>
+<title>gd81-03-05 s1 t07 Mama Tried</title>
+<mtime>1510363781</mtime>
+<size>59969754</size>
+<md5>3892a25f92bf167bac78227cca9b5c03</md5>
+<crc32>d1259658</crc32>
+<sha1>a9f5b64329aed2c747390dfa42a54f577d49310f</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>07</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:148c93c2-97fa-4245-a57e-59e3a2d2a19d</external-identifier>
+</file>
+<file name="Gd81-03-05S1T07MamaTried.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t07 Mama Tried</title>
+<track>07</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>02:32</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T07MamaTried.flac</original>
+<mtime>1510511214</mtime>
+<size>3620352</size>
+<md5>b99dfa0fbd11fd9f55ffb9b54ddfbce7</md5>
+<crc32>beae58ed</crc32>
+<sha1>9a27b4790ac061c2c2f51966fc2d8e0244189873</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T07MamaTried.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T07MamaTried.flac</original>
+<mtime>1510513155</mtime>
+<size>1986440</size>
+<md5>058eb8da087a08ef9d6d3f271f9fc260</md5>
+<crc32>6e49833d</crc32>
+<sha1>3cffdb653794356a012a17172b37d54fe90281b1</sha1>
+<length>152.6</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T07MamaTried.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T07MamaTried.flac</original>
+<mtime>1510513708</mtime>
+<size>11842</size>
+<md5>274885134f52f1043d5274932fb20261</md5>
+<crc32>a47c5b8e</crc32>
+<sha1>4a76fb95a839b3a941a783c08882bd1832c95058</sha1>
+</file>
+<file name="Gd81-03-05S1T07MamaTried_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T07MamaTried.flac</original>
+<mtime>1510513826</mtime>
+<size>213567</size>
+<md5>e4e6152c7f1273c19ad53b86a40795c9</md5>
+<crc32>fdbee941</crc32>
+<sha1>666bfb14c1008b7b8a03d70b23515f5ed4d39771</sha1>
+</file>
+<file name="Gd81-03-05S1T08MexicaliBlues.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T08MexicaliBlues.flac</original>
+<mtime>1510514453</mtime>
+<size>64032</size>
+<md5>d1e4450615fe7e56de384728e715a510</md5>
+<crc32>b7aa6ad2</crc32>
+<sha1>ecdf9a5473561c591011a881c840f9ca13dbf67c</sha1>
+</file>
+<file name="Gd81-03-05S1T08MexicaliBlues.flac" source="original">
+<format>24bit Flac</format>
+<length>322.39</length>
+<title>gd81-03-05 s1 t08 Mexicali Blues</title>
+<mtime>1510363844</mtime>
+<size>123061963</size>
+<md5>0f45c04bc95597e5d571e529d251b14b</md5>
+<crc32>dc54f9b5</crc32>
+<sha1>1dc6c12cc0833e3b40170ece827930187717d61f</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>08</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:c4263c57-bc34-4961-9713-52d2b606ba84</external-identifier>
+</file>
+<file name="Gd81-03-05S1T08MexicaliBlues.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t08 Mexicali Blues</title>
+<track>08</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>05:22</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T08MexicaliBlues.flac</original>
+<mtime>1510511087</mtime>
+<size>7640576</size>
+<md5>a0f83acb73c15322a4b706975e8a1caf</md5>
+<crc32>25ff2db6</crc32>
+<sha1>0318892d9af97a62f6195f99a2e0773c2a27b065</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T08MexicaliBlues.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T08MexicaliBlues.flac</original>
+<mtime>1510512994</mtime>
+<size>4230029</size>
+<md5>e59d46243bdd79e2609ebfd08aa86df9</md5>
+<crc32>18a5530c</crc32>
+<sha1>917775d90e1e57826446b51915e02a6433de08b4</sha1>
+<length>322.39</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T08MexicaliBlues.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T08MexicaliBlues.flac</original>
+<mtime>1510513727</mtime>
+<size>10866</size>
+<md5>52bc674eec92a549ba928755e0d365a4</md5>
+<crc32>c78261d3</crc32>
+<sha1>74294c1bf2c6dabbffe305270b289f6287f6b24c</sha1>
+</file>
+<file name="Gd81-03-05S1T08MexicaliBlues_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T08MexicaliBlues.flac</original>
+<mtime>1510514051</mtime>
+<size>203666</size>
+<md5>17d68fd54f6926c0e7c36fd4fa45d021</md5>
+<crc32>97713f33</crc32>
+<sha1>b2ac2f0617375bc036c5410ab6a2f7d8d72fc293</sha1>
+</file>
+<file name="Gd81-03-05S1T09ToLayMeDown.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T09ToLayMeDown.flac</original>
+<mtime>1510514483</mtime>
+<size>92000</size>
+<md5>1b7f371da4faf3085344065614d32963</md5>
+<crc32>9eebf9e7</crc32>
+<sha1>1fb71d05f0ae7ad06aaec4f49be322d1f63a82a8</sha1>
+</file>
+<file name="Gd81-03-05S1T09ToLayMeDown.flac" source="original">
+<format>24bit Flac</format>
+<length>590.24</length>
+<title>gd81-03-05 s1 t09 To Lay Me Down</title>
+<mtime>1510364002</mtime>
+<size>226046634</size>
+<md5>1515c21763a4884b6efdb537c4506e15</md5>
+<crc32>215efecd</crc32>
+<sha1>178e3cd5dff23dfcd017ee3cfccf046cff518515</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>09</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:e3d12488-da9e-4b13-a35f-79cd347b7b06</external-identifier>
+</file>
+<file name="Gd81-03-05S1T09ToLayMeDown.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t09 To Lay Me Down</title>
+<track>09</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>183</bitrate>
+<length>09:50</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T09ToLayMeDown.flac</original>
+<mtime>1510511751</mtime>
+<size>13478400</size>
+<md5>b801d1717a99b5e406081153df5ebea5</md5>
+<crc32>855636cb</crc32>
+<sha1>22ea4efd7e35b0ffdf66e61ce70e95b468290e63</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T09ToLayMeDown.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T09ToLayMeDown.flac</original>
+<mtime>1510512754</mtime>
+<size>7573977</size>
+<md5>c3bc7354bf852246963e865859d8191b</md5>
+<crc32>f7229f5b</crc32>
+<sha1>4e0b3a0590c39506a5955983b68f89677c8b02b0</sha1>
+<length>590.24</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T09ToLayMeDown.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T09ToLayMeDown.flac</original>
+<mtime>1510513188</mtime>
+<size>9543</size>
+<md5>c5dedf1cec93ca16ccade4c4022deeb0</md5>
+<crc32>35c6aa1c</crc32>
+<sha1>91ad5b3f9ce161e78d2f24b353353d9f75dabae9</sha1>
+</file>
+<file name="Gd81-03-05S1T09ToLayMeDown_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T09ToLayMeDown.flac</original>
+<mtime>1510513883</mtime>
+<size>180677</size>
+<md5>8060da60de4caef16bfbb4c235c3ea20</md5>
+<crc32>ac3239d6</crc32>
+<sha1>b615b6018f77e0c9c0273eb8a97895cb2bac9e8b</sha1>
+</file>
+<file name="Gd81-03-05S1T10NewMinglewoodBlues.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T10NewMinglewoodBlues.flac</original>
+<mtime>1510514285</mtime>
+<size>87512</size>
+<md5>702adaa9d4ae55d7f67d6035d7f63eac</md5>
+<crc32>b0a62b08</crc32>
+<sha1>cc1aa4e430a915e74df2d39a8f288ec5ad87f209</sha1>
+</file>
+<file name="Gd81-03-05S1T10NewMinglewoodBlues.flac" source="original">
+<format>24bit Flac</format>
+<length>437.6</length>
+<title>gd81-03-05 s1 t10 New Minglewood Blues</title>
+<mtime>1510364124</mtime>
+<size>172215589</size>
+<md5>0b84d6e91e5bc88f959bffd1dded8a34</md5>
+<crc32>5d30bc80</crc32>
+<sha1>0940b1cbb9b0f18cc80c63d4715e97ef59cd6990</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>10</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:95b24d59-95cf-4f2b-9a7a-1e80d4446acc</external-identifier>
+</file>
+<file name="Gd81-03-05S1T10NewMinglewoodBlues.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t10 New Minglewood Blues</title>
+<track>10</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>189</bitrate>
+<length>07:17</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T10NewMinglewoodBlues.flac</original>
+<mtime>1510511959</mtime>
+<size>10353152</size>
+<md5>0f80c908dd15e7693b43266e7adcf979</md5>
+<crc32>3b15f6de</crc32>
+<sha1>8021c822554f57ef98a138e7439f6fb3e76fb725</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T10NewMinglewoodBlues.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T10NewMinglewoodBlues.flac</original>
+<mtime>1510512213</mtime>
+<size>5648104</size>
+<md5>fa172b7c3d5f923cd28ddc303651b826</md5>
+<crc32>d20fe6a0</crc32>
+<sha1>b4ed648e1b4ed55a758ddacf1a1db947ada3f896</sha1>
+<length>437.6</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T10NewMinglewoodBlues.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T10NewMinglewoodBlues.flac</original>
+<mtime>1510513214</mtime>
+<size>10959</size>
+<md5>edb1f3d56d9b8b68361d2126650aa004</md5>
+<crc32>48cb4c43</crc32>
+<sha1>663c9d4a97ec27da21f26b4780a468c2e349657f</sha1>
+</file>
+<file name="Gd81-03-05S1T10NewMinglewoodBlues_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T10NewMinglewoodBlues.flac</original>
+<mtime>1510513951</mtime>
+<size>195847</size>
+<md5>ae6f9ac4e5fc3b4953855c2b01586463</md5>
+<crc32>8d0151e9</crc32>
+<sha1>cdf381ab3c836a7a6196840f1a75559856565784</sha1>
+</file>
+<file name="Gd81-03-05S1T11TennesseeJed.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T11TennesseeJed.flac</original>
+<mtime>1510514341</mtime>
+<size>93160</size>
+<md5>be15653c61edec72691bed3a7da017cc</md5>
+<crc32>65ca7d6d</crc32>
+<sha1>d5e086848d98399230de4d1d8e8628f6a7c0446d</sha1>
+</file>
+<file name="Gd81-03-05S1T11TennesseeJed.flac" source="original">
+<format>24bit Flac</format>
+<length>531.39</length>
+<title>gd81-03-05 s1 t11 Tennessee Jed</title>
+<mtime>1510364282</mtime>
+<size>207616212</size>
+<md5>1436759b7f9b11fea0f86adfb2dfec71</md5>
+<crc32>c262fbeb</crc32>
+<sha1>20818aa1caf684f54461833d98634eb46b376719</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>11</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:0280484f-049b-46cf-8ec3-322d3880213a</external-identifier>
+</file>
+<file name="Gd81-03-05S1T11TennesseeJed.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t11 Tennessee Jed</title>
+<track>11</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>188</bitrate>
+<length>08:51</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T11TennesseeJed.flac</original>
+<mtime>1510511788</mtime>
+<size>12476416</size>
+<md5>22f7bfbc308aeb2d98a8c65d6a84ac9f</md5>
+<crc32>69aafc6a</crc32>
+<sha1>35509fca1502afd0422a44ab3aa9926c9c24e698</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T11TennesseeJed.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T11TennesseeJed.flac</original>
+<mtime>1510512332</mtime>
+<size>6883609</size>
+<md5>741b53d239b682d73e76963a58bba3d1</md5>
+<crc32>9a80d141</crc32>
+<sha1>ea3a83a8ac583d1c70246ab6d4f3a4baede11ba4</sha1>
+<length>531.39</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T11TennesseeJed.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T11TennesseeJed.flac</original>
+<mtime>1510513292</mtime>
+<size>11291</size>
+<md5>35a39d55696586d223f4c426a2bb104e</md5>
+<crc32>e416eb76</crc32>
+<sha1>cfd9b269c550a57f4a649ae4e20488632febaeac</sha1>
+</file>
+<file name="Gd81-03-05S1T11TennesseeJed_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T11TennesseeJed.flac</original>
+<mtime>1510513934</mtime>
+<size>188302</size>
+<md5>07505e7245950b0248263cb445c57fa3</md5>
+<crc32>fe0a360a</crc32>
+<sha1>a6e2f015aa12261ce4a2030e2d218596b570fe30</sha1>
+</file>
+<file name="Gd81-03-05S1T12TheMusicNeverStopped.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S1T12TheMusicNeverStopped.flac</original>
+<mtime>1510514592</mtime>
+<size>93224</size>
+<md5>a18acaf5b299c902cd79e8dfe8c64c48</md5>
+<crc32>8f3bbd58</crc32>
+<sha1>2a9c16287e6bb6b5aa30dfbc707b75d7ee671c38</sha1>
+</file>
+<file name="Gd81-03-05S1T12TheMusicNeverStopped.flac" source="original">
+<format>24bit Flac</format>
+<length>479.44</length>
+<title>gd81-03-05 s1 t12 The Music Never Stopped</title>
+<mtime>1510364387</mtime>
+<size>189453015</size>
+<md5>5f6a2fc70bdfcd1067c77cb85c6195b6</md5>
+<crc32>2145d953</crc32>
+<sha1>77d2d39c632966c2de9747cc32237565d5b6c82e</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>12</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:158ac6d2-5820-4689-bff2-869d761b4be8</external-identifier>
+</file>
+<file name="Gd81-03-05S1T12TheMusicNeverStopped.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s1 t12 The Music Never Stopped</title>
+<track>12</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>189</bitrate>
+<length>07:59</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S1T12TheMusicNeverStopped.flac</original>
+<mtime>1510511923</mtime>
+<size>11354624</size>
+<md5>1b53c56effb0f371b1ff5c3c0712e93a</md5>
+<crc32>bc96eb8a</crc32>
+<sha1>e08ab425e3d7ffcc0a6fc6e35c6084a0c301cf15</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T12TheMusicNeverStopped.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S1T12TheMusicNeverStopped.flac</original>
+<mtime>1510512502</mtime>
+<size>6166277</size>
+<md5>5067acfbad125d1b85752cbae4a44bdd</md5>
+<crc32>16d94cee</crc32>
+<sha1>f31cef13c8af84c724745e690ab255b5dc9a1070</sha1>
+<length>479.44</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S1T12TheMusicNeverStopped.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S1T12TheMusicNeverStopped.flac</original>
+<mtime>1510513455</mtime>
+<size>10903</size>
+<md5>316275e8fed2c21bba81ee847dc7059a</md5>
+<crc32>d5ea0cfe</crc32>
+<sha1>307a5b5b1f3adcc17da219ca21633522e7c1e3f3</sha1>
+</file>
+<file name="Gd81-03-05S1T12TheMusicNeverStopped_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S1T12TheMusicNeverStopped.flac</original>
+<mtime>1510513893</mtime>
+<size>189656</size>
+<md5>96e5cb195feba8606a22ef5211050547</md5>
+<crc32>a5b8d635</crc32>
+<sha1>fcc23e39771d5cbe54c60e01cc1c07f3557ad6f4</sha1>
+</file>
+<file name="Gd81-03-05S2T01Crowd.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T01Crowd.flac</original>
+<mtime>1510514168</mtime>
+<size>34328</size>
+<md5>d8b88030ccdaa8d00b405c22cae3d2f6</md5>
+<crc32>e15ec0d0</crc32>
+<sha1>6d7e1ad1fae2db292d627911884d0bbae72c4aa6</sha1>
+</file>
+<file name="Gd81-03-05S2T01Crowd.flac" source="original">
+<format>24bit Flac</format>
+<length>181.96</length>
+<title>gd81-03-05 s2 t01 Crowd</title>
+<mtime>1510364435</mtime>
+<size>71582771</size>
+<md5>bbe4c0b91349b54608414fd2e0ab6fd9</md5>
+<crc32>776a1ec4</crc32>
+<sha1>1fbda6973b0a8bd6dc30264a06543694ade5f81d</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>13</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:76806d42-5009-46db-a5bc-a255feefc36e</external-identifier>
+</file>
+<file name="Gd81-03-05S2T01Crowd.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t01 Crowd</title>
+<track>13</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>183</bitrate>
+<length>03:01</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T01Crowd.flac</original>
+<mtime>1510511258</mtime>
+<size>4161024</size>
+<md5>45e759c7db678d638c26c84245b3f9b4</md5>
+<crc32>24dceb91</crc32>
+<sha1>2c2240d51b9393499c685e2ae366fed72193301b</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T01Crowd.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T01Crowd.flac</original>
+<mtime>1510512233</mtime>
+<size>2420243</size>
+<md5>e9fe211ece22537854cdd6e9df752aab</md5>
+<crc32>ac53e68f</crc32>
+<sha1>3b37abf41bd09111ae7bdfb54e6be65689b29241</sha1>
+<length>181.96</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T01Crowd.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T01Crowd.flac</original>
+<mtime>1510513760</mtime>
+<size>8955</size>
+<md5>9c1990567b2a95f549374c2c6f95439f</md5>
+<crc32>5d6ec210</crc32>
+<sha1>d336aa77c62562fb6f6359178ddbca7268f9693a</sha1>
+</file>
+<file name="Gd81-03-05S2T01Crowd_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T01Crowd.flac</original>
+<mtime>1510513871</mtime>
+<size>207725</size>
+<md5>39b05de53e6377f1fee33e7c69979a31</md5>
+<crc32>685192d6</crc32>
+<sha1>23c14c1a33ac2fcb50739cb97daf58739e9ab170</sha1>
+</file>
+<file name="Gd81-03-05S2T02Jam.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T02Jam.flac</original>
+<mtime>1510514210</mtime>
+<size>80872</size>
+<md5>4ba5dca0882b3d668031702bdbfa24df</md5>
+<crc32>7893b900</crc32>
+<sha1>f21d550c1bb3dbcb64ee3c182cd23b893ed1d647</sha1>
+</file>
+<file name="Gd81-03-05S2T02Jam.flac" source="original">
+<format>24bit Flac</format>
+<length>444.75</length>
+<title>gd81-03-05 s2 t02 Jam</title>
+<mtime>1510364531</mtime>
+<size>179322765</size>
+<md5>2339c6ba6ad1a5383ec44337ab9912e6</md5>
+<crc32>de881a9b</crc32>
+<sha1>d44218eaab2a911c8b4a19a888360696c2d21bac</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>14</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:1ab8fd18-bfe5-4c3a-92dc-9e71a250dbe0</external-identifier>
+</file>
+<file name="Gd81-03-05S2T02Jam.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t02 Jam</title>
+<track>14</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>07:24</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T02Jam.flac</original>
+<mtime>1510511892</mtime>
+<size>10549248</size>
+<md5>ecbe18095be2b019ba2a379ece39ec16</md5>
+<crc32>3b3b4c6d</crc32>
+<sha1>ffa87f28eae134b1d439a9fed365388344a7314d</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T02Jam.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T02Jam.flac</original>
+<mtime>1510512901</mtime>
+<size>5847097</size>
+<md5>666e08c2cc81a8e04ca93f080096f3c1</md5>
+<crc32>bf03746b</crc32>
+<sha1>7a6d1f70a9dd83c448a7421ec2f651ed60dc57a5</sha1>
+<length>444.75</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T02Jam.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T02Jam.flac</original>
+<mtime>1510513242</mtime>
+<size>11531</size>
+<md5>8e1adbc713d41d3a66b8361830c7efb9</md5>
+<crc32>bf0c62b3</crc32>
+<sha1>e57b4b4aac0108f14f84e76965f215d210be45ae</sha1>
+</file>
+<file name="Gd81-03-05S2T02Jam_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T02Jam.flac</original>
+<mtime>1510513802</mtime>
+<size>188570</size>
+<md5>7c8c9bf04efbc7d7221140deabae29b9</md5>
+<crc32>742a6bc0</crc32>
+<sha1>1c4e2787c1cca0c2b7b6a348a6352e0fb03319f6</sha1>
+</file>
+<file name="Gd81-03-05S2T03Passenger.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T03Passenger.flac</original>
+<mtime>1510514156</mtime>
+<size>67200</size>
+<md5>215c8f9eb3f1f6ef09fe5b033a1ef48f</md5>
+<crc32>c3525ce5</crc32>
+<sha1>feeafd0f8f766e8eb8d057312cfb972a35f53e8e</sha1>
+</file>
+<file name="Gd81-03-05S2T03Passenger.flac" source="original">
+<format>24bit Flac</format>
+<length>318.36</length>
+<title>gd81-03-05 s2 t03 Passenger</title>
+<mtime>1510364592</mtime>
+<size>127087989</size>
+<md5>6a68c313b178ff3309048c4ddf768258</md5>
+<crc32>7dcaaa8e</crc32>
+<sha1>1d74574dcb62c414c0d9415750f6202aeb840063</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>15</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:76f2345d-2af1-4ec3-bca5-686d54a26f99</external-identifier>
+</file>
+<file name="Gd81-03-05S2T03Passenger.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t03 Passenger</title>
+<track>15</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>05:18</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T03Passenger.flac</original>
+<mtime>1510511812</mtime>
+<size>7548928</size>
+<md5>5b311a16025c077ceb00c43cf673c14c</md5>
+<crc32>06c65818</crc32>
+<sha1>351fafe3dc0ac55118b3e79c5a09b496e6fe02ef</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T03Passenger.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T03Passenger.flac</original>
+<mtime>1510512854</mtime>
+<size>4141286</size>
+<md5>8146d4de2cfcccf31ffecd00858766a0</md5>
+<crc32>18fc1653</crc32>
+<sha1>2ff9cfe163e5688df897296c2a0fd9623a7217ad</sha1>
+<length>318.36</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T03Passenger.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T03Passenger.flac</original>
+<mtime>1510513262</mtime>
+<size>11366</size>
+<md5>77d9aac95e4fb590a39e2c9835a25845</md5>
+<crc32>9632a75f</crc32>
+<sha1>5663fe0ce48a505811bd7700e2e1119fec2b79af</sha1>
+</file>
+<file name="Gd81-03-05S2T03Passenger_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T03Passenger.flac</original>
+<mtime>1510513858</mtime>
+<size>202600</size>
+<md5>0d382a3c649cc4332e69589cd5ad83da</md5>
+<crc32>94f74823</crc32>
+<sha1>61e720fdb7c20c702625a09c3329db5f8481f0c9</sha1>
+</file>
+<file name="Gd81-03-05S2T04ScarletBegonias.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T04ScarletBegonias.flac</original>
+<mtime>1510514317</mtime>
+<size>127512</size>
+<md5>ccd99c424ac9ea5a7f18a85bc01d595d</md5>
+<crc32>5487f189</crc32>
+<sha1>cfce9b6febeec26490f8a57a3d52189eec195f52</sha1>
+</file>
+<file name="Gd81-03-05S2T04ScarletBegonias.flac" source="original">
+<format>24bit Flac</format>
+<length>690.67</length>
+<title>gd81-03-05 s2 t04 Scarlet Begonias</title>
+<mtime>1510364717</mtime>
+<size>269470902</size>
+<md5>dac8ecadfec009a9501da6c2f4300fb8</md5>
+<crc32>f5dbb576</crc32>
+<sha1>8ae65a79d9799a0156451f42e2d9a3b9c04cc080</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>16</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:94bebf54-499e-4329-b5bb-4401dd54cda0</external-identifier>
+</file>
+<file name="Gd81-03-05S2T04ScarletBegonias.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t04 Scarlet Begonias</title>
+<track>16</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>191</bitrate>
+<length>11:30</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T04ScarletBegonias.flac</original>
+<mtime>1510511860</mtime>
+<size>16500736</size>
+<md5>7e7800103ed1e32224fbd8f1e2f5bedc</md5>
+<crc32>9c06a4ea</crc32>
+<sha1>7868e065502a336718a73a0fd38cbbc5b664e544</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T04ScarletBegonias.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T04ScarletBegonias.flac</original>
+<mtime>1510513116</mtime>
+<size>8989041</size>
+<md5>ef5806665c0b1ec14228c67ba3fb40fa</md5>
+<crc32>f5b9787c</crc32>
+<sha1>ed1cefd4b0e6bdb2187e5a176bbe7fa31c46b5b3</sha1>
+<length>690.67</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T04ScarletBegonias.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T04ScarletBegonias.flac</original>
+<mtime>1510513366</mtime>
+<size>10056</size>
+<md5>07644e77a7ddbe458291f93028ff29fe</md5>
+<crc32>59161202</crc32>
+<sha1>5398e37aecdb3734178ebddf13f3596f6de833df</sha1>
+</file>
+<file name="Gd81-03-05S2T04ScarletBegonias_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T04ScarletBegonias.flac</original>
+<mtime>1510513838</mtime>
+<size>177248</size>
+<md5>2c051f70145670954a2784e9a9f14ca9</md5>
+<crc32>62955343</crc32>
+<sha1>735795f54b6ec6930061a56da63ae4cbc44151e4</sha1>
+</file>
+<file name="Gd81-03-05S2T05FireOnTheMountain.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T05FireOnTheMountain.flac</original>
+<mtime>1510514437</mtime>
+<size>136664</size>
+<md5>945d5d9ab9e42e39da46c18944157769</md5>
+<crc32>dc07d03b</crc32>
+<sha1>23362932291971a5d876ecd80ae01e4f89de18a8</sha1>
+</file>
+<file name="Gd81-03-05S2T05FireOnTheMountain.flac" source="original">
+<format>24bit Flac</format>
+<length>722.63</length>
+<title>gd81-03-05 s2 t05 Fire On The Mountain</title>
+<mtime>1510364871</mtime>
+<size>281819602</size>
+<md5>40f5180c3ced4c012e63cc2a463bf48e</md5>
+<crc32>280f1730</crc32>
+<sha1>c0e757fff7ebd7ac70eead5bf9c8c6797b94d705</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>17</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:83a6d1c7-351e-4fe8-89c7-52633344ffa9</external-identifier>
+</file>
+<file name="Gd81-03-05S2T05FireOnTheMountain.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t05 Fire On The Mountain</title>
+<track>17</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>12:02</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T05FireOnTheMountain.flac</original>
+<mtime>1510511709</mtime>
+<size>17168384</size>
+<md5>5e372921e57a3b946fb0b181f6a5c79f</md5>
+<crc32>951ad350</crc32>
+<sha1>ba09f2ca0e35d40bf98c2f1659cbf9f123978580</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T05FireOnTheMountain.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T05FireOnTheMountain.flac</original>
+<mtime>1510512823</mtime>
+<size>9373018</size>
+<md5>7b2935e7d5e50b5b623a0580c090a9d2</md5>
+<crc32>64427412</crc32>
+<sha1>0f169b51499e2c3b843cde0cb68c82f68bb13157</sha1>
+<length>722.63</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T05FireOnTheMountain.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T05FireOnTheMountain.flac</original>
+<mtime>1510513330</mtime>
+<size>10611</size>
+<md5>dceeae359f63c55bac68ceace25d48c7</md5>
+<crc32>b6c8200f</crc32>
+<sha1>e7b395bbd462f9434dab11267d6c2cc282aadeeb</sha1>
+</file>
+<file name="Gd81-03-05S2T05FireOnTheMountain_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T05FireOnTheMountain.flac</original>
+<mtime>1510514006</mtime>
+<size>189511</size>
+<md5>2f0386f3f4b899776e090bfaf4e158ee</md5>
+<crc32>ee1d7a39</crc32>
+<sha1>5a5c908a529a10a9c077124153b046d8e54f82ff</sha1>
+</file>
+<file name="Gd81-03-05S2T06PlayingInTheBand.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T06PlayingInTheBand.flac</original>
+<mtime>1510514109</mtime>
+<size>154768</size>
+<md5>462fb38bfa234b00bcfb760e0b517846</md5>
+<crc32>adb8989b</crc32>
+<sha1>ebb0c5db1d0d1f9a44c53c67abd6959bddbdb89f</sha1>
+</file>
+<file name="Gd81-03-05S2T06PlayingInTheBand.flac" source="original">
+<format>24bit Flac</format>
+<length>853.88</length>
+<title>gd81-03-05 s2 t06 Playing In The Band</title>
+<mtime>1510365099</mtime>
+<size>340244096</size>
+<md5>0371c863d2d65627e42cb2fc4982d5fe</md5>
+<crc32>3aa763fa</crc32>
+<sha1>64af26f03b8f50f35db19ad19921946932bb912d</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>18</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:f12548df-da02-4626-844a-4eebb6b4bbc6</external-identifier>
+</file>
+<file name="Gd81-03-05S2T06PlayingInTheBand.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t06 Playing In The Band</title>
+<track>18</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>188</bitrate>
+<length>14:13</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T06PlayingInTheBand.flac</original>
+<mtime>1510512077</mtime>
+<size>20043264</size>
+<md5>ac6454ec96a21cf7116bb303d579d505</md5>
+<crc32>d6a397aa</crc32>
+<sha1>e377688cdc36152ae78f6fdd3003905052af5a33</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T06PlayingInTheBand.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T06PlayingInTheBand.flac</original>
+<mtime>1510512612</mtime>
+<size>10955777</size>
+<md5>6ae9a48477b9f77739ca5314dcf78079</md5>
+<crc32>52ce62b0</crc32>
+<sha1>76a43813229df5a331f34fd81602cf231e6bcc87</sha1>
+<length>853.88</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T06PlayingInTheBand.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T06PlayingInTheBand.flac</original>
+<mtime>1510513499</mtime>
+<size>9979</size>
+<md5>149ce52299150e7ca9e09621684027fc</md5>
+<crc32>6d834338</crc32>
+<sha1>69cbc3b32c71e843ccfb98b55cc4d29986db6fb7</sha1>
+</file>
+<file name="Gd81-03-05S2T06PlayingInTheBand_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T06PlayingInTheBand.flac</original>
+<mtime>1510513993</mtime>
+<size>171808</size>
+<md5>492cc956633444f95923bae616912cd6</md5>
+<crc32>5673cf90</crc32>
+<sha1>ba4abae3863352f5a15426115dd77651e07ab85e</sha1>
+</file>
+<file name="Gd81-03-05S2T07Drums.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T07Drums.flac</original>
+<mtime>1510514241</mtime>
+<size>124312</size>
+<md5>78fe96c8ccab5bcd0f7a8561eaf34eff</md5>
+<crc32>aa10becb</crc32>
+<sha1>fea66781231283d915c1f86535a002be56183d3f</sha1>
+</file>
+<file name="Gd81-03-05S2T07Drums.flac" source="original">
+<format>24bit Flac</format>
+<length>708.09</length>
+<title>gd81-03-05 s2 t07 Drums</title>
+<mtime>1510365232</mtime>
+<size>270684528</size>
+<md5>736d3a0d1697d3731a5d2c60cb96111d</md5>
+<crc32>457272e1</crc32>
+<sha1>9e86cdbe2a45e72e4533f0d901a99d9e41cfd25c</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>19</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:6c387071-b449-4f92-97d7-d5127ef02e78</external-identifier>
+</file>
+<file name="Gd81-03-05S2T07Drums.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t07 Drums</title>
+<track>19</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>189</bitrate>
+<length>11:48</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T07Drums.flac</original>
+<mtime>1510511303</mtime>
+<size>16736768</size>
+<md5>a97c53e5fa9b297d4151d41b663cef7a</md5>
+<crc32>953f8103</crc32>
+<sha1>4adff47df35e959518c121b1c70344a66d065287</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T07Drums.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T07Drums.flac</original>
+<mtime>1510512431</mtime>
+<size>9418943</size>
+<md5>49fdfb4ef14200993341266e9444c63c</md5>
+<crc32>9d89367d</crc32>
+<sha1>55d1935bae3c0398259320d940e8e25045dbf26f</sha1>
+<length>708.09</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T07Drums.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T07Drums.flac</original>
+<mtime>1510513697</mtime>
+<size>10003</size>
+<md5>779bb78d40e4a0de9a0488b030bc524a</md5>
+<crc32>88bb8951</crc32>
+<sha1>a3f242a4216b9f686359af625db8069334303351</sha1>
+</file>
+<file name="Gd81-03-05S2T07Drums_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T07Drums.flac</original>
+<mtime>1510513851</mtime>
+<size>174120</size>
+<md5>ef8940e4b23a2b99505d7595f2341043</md5>
+<crc32>2f370ff7</crc32>
+<sha1>41fb9439b302d7d0420d9da0ebcc267a8fe87379</sha1>
+</file>
+<file name="Gd81-03-05S2T08Space.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T08Space.flac</original>
+<mtime>1510514496</mtime>
+<size>41824</size>
+<md5>6c01135e7d3417b5fe8402cc252a46d8</md5>
+<crc32>0e8710ca</crc32>
+<sha1>ce7e068ae6f83004ffaf271789c53b3cc984c3a3</sha1>
+</file>
+<file name="Gd81-03-05S2T08Space.flac" source="original">
+<format>24bit Flac</format>
+<length>253.51</length>
+<title>gd81-03-05 s2 t08 Space</title>
+<mtime>1510365283</mtime>
+<size>97495691</size>
+<md5>468e3b2cdf84aaa43c20fe1e7dd755a0</md5>
+<crc32>f31a60df</crc32>
+<sha1>58997b7474ee63981a6d38e587ebabc2f272c911</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>20</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:72586770-aa89-45da-bd0d-9cfbb99529c1</external-identifier>
+</file>
+<file name="Gd81-03-05S2T08Space.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t08 Space</title>
+<track>20</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>179</bitrate>
+<length>04:13</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T08Space.flac</original>
+<mtime>1510511320</mtime>
+<size>5665792</size>
+<md5>c069f70fffa673e66d26188383a146dc</md5>
+<crc32>dcaba617</crc32>
+<sha1>1d214a1d237d8c326243c3038659bc147cfffcff</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T08Space.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T08Space.flac</original>
+<mtime>1510513139</mtime>
+<size>3281536</size>
+<md5>ad33bdb70394a3c50cef1da71949b08b</md5>
+<crc32>469fa83e</crc32>
+<sha1>bbaf9c1ad0a71ca54fcdde8c412e9e61494bea67</sha1>
+<length>253.51</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T08Space.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T08Space.flac</original>
+<mtime>1510513515</mtime>
+<size>9592</size>
+<md5>f4a74eb94831e3ce84347ccd78f42ad2</md5>
+<crc32>f6adc763</crc32>
+<sha1>402e5aa75da32c1220412663f95c3cd769e65210</sha1>
+</file>
+<file name="Gd81-03-05S2T08Space_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T08Space.flac</original>
+<mtime>1510513956</mtime>
+<size>183230</size>
+<md5>72ece549923b68d6a33803d928055744</md5>
+<crc32>2a811688</crc32>
+<sha1>7499ab042ee86bf2303fd87882ca86c3c0d5f017</sha1>
+</file>
+<file name="Gd81-03-05S2T09NotFadeAway.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T09NotFadeAway.flac</original>
+<mtime>1510514368</mtime>
+<size>109720</size>
+<md5>ed3cbccec6ff0a2b4ad6261c1a08d3a7</md5>
+<crc32>b4ee2262</crc32>
+<sha1>5bfbd354047e559942e2ab6497d1fac47c841131</sha1>
+</file>
+<file name="Gd81-03-05S2T09NotFadeAway.flac" source="original">
+<format>24bit Flac</format>
+<length>569.53</length>
+<title>gd81-03-05 s2 t09 Not Fade Away</title>
+<mtime>1510365395</mtime>
+<size>227218762</size>
+<md5>b009d16f650f3c5246a590dd792b460d</md5>
+<crc32>ca99fb81</crc32>
+<sha1>10dec4e35088fb61bbdb9590379c9f6f93736765</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>21</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:85f885fb-fc48-4692-adcf-65a04943ebca</external-identifier>
+</file>
+<file name="Gd81-03-05S2T09NotFadeAway.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t09 Not Fade Away</title>
+<track>21</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>189</bitrate>
+<length>09:29</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T09NotFadeAway.flac</original>
+<mtime>1510511354</mtime>
+<size>13487616</size>
+<md5>31957927ac285f281f018826852c998e</md5>
+<crc32>4dce037a</crc32>
+<sha1>6d9a622c9c39ec123550e964a97309772d47d8a5</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T09NotFadeAway.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T09NotFadeAway.flac</original>
+<mtime>1510513049</mtime>
+<size>7373338</size>
+<md5>adf7b8d289feea3a86c96b13382f15fc</md5>
+<crc32>515c5d75</crc32>
+<sha1>92c23167014141334c38d042dfce4fe18610cfa5</sha1>
+<length>569.53</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T09NotFadeAway.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T09NotFadeAway.flac</original>
+<mtime>1510513666</mtime>
+<size>11567</size>
+<md5>17437679909f403e256668aa315d7f88</md5>
+<crc32>4c5033a3</crc32>
+<sha1>e48e4ea331cc19de34fd96956b3799f3435261c6</sha1>
+</file>
+<file name="Gd81-03-05S2T09NotFadeAway_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T09NotFadeAway.flac</original>
+<mtime>1510514032</mtime>
+<size>185013</size>
+<md5>731dc494d20f004c7134a791257d9782</md5>
+<crc32>60b74d7d</crc32>
+<sha1>3d5fda7dce419b8a4fafafc2d8d224d96dfa82e6</sha1>
+</file>
+<file name="Gd81-03-05S2T10WharfRat.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T10WharfRat.flac</original>
+<mtime>1510514141</mtime>
+<size>125448</size>
+<md5>5f38c45e187597079af68a0612cf3799</md5>
+<crc32>73499745</crc32>
+<sha1>a4dae66466babf00e56cdeb5fcc8c20419f330bf</sha1>
+</file>
+<file name="Gd81-03-05S2T10WharfRat.flac" source="original">
+<format>24bit Flac</format>
+<length>689.12</length>
+<title>gd81-03-05 s2 t10 Wharf Rat</title>
+<mtime>1510365568</mtime>
+<size>272446924</size>
+<md5>36aa0955c959924791b673fdd8248d25</md5>
+<crc32>01eebce2</crc32>
+<sha1>cc871ed4b6cb7c7ebd9f0d3f10f9cbf33e426a11</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>22</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:1bcd277f-0ddd-4b24-87f9-ed95a9a467a4</external-identifier>
+</file>
+<file name="Gd81-03-05S2T10WharfRat.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t10 Wharf Rat</title>
+<track>22</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>186</bitrate>
+<length>11:29</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T10WharfRat.flac</original>
+<mtime>1510511399</mtime>
+<size>16064512</size>
+<md5>f6f43746e03b4179254eebfac1ac20be</md5>
+<crc32>2d093654</crc32>
+<sha1>dbed89affa3514498fa50f74f905b4688e3d01c4</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T10WharfRat.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T10WharfRat.flac</original>
+<mtime>1510512697</mtime>
+<size>8869180</size>
+<md5>d98116e7e44dfcec48abff5e1f17d4cb</md5>
+<crc32>f72498b2</crc32>
+<sha1>3ace94072a9e8c82c73668917639f83ef6ad17a7</sha1>
+<length>689.12</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T10WharfRat.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T10WharfRat.flac</original>
+<mtime>1510513573</mtime>
+<size>11094</size>
+<md5>485b8f86f15ea28cf6af6fa3dd7f6c52</md5>
+<crc32>24a08c8f</crc32>
+<sha1>5ad174406964cbed428301fdc4c8718ce0ce19a9</sha1>
+</file>
+<file name="Gd81-03-05S2T10WharfRat_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T10WharfRat.flac</original>
+<mtime>1510513815</mtime>
+<size>180038</size>
+<md5>297b98eccda80e56f3eac3852171f470</md5>
+<crc32>69953b2c</crc32>
+<sha1>3fce8c9e6a5712e0b30662da1ca04266474cdc3b</sha1>
+</file>
+<file name="Gd81-03-05S2T11AroundAround.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T11AroundAround.flac</original>
+<mtime>1510514392</mtime>
+<size>102432</size>
+<md5>ff71083d6fd38e5b97d0311a5f4e17a7</md5>
+<crc32>c4bff872</crc32>
+<sha1>7f292e386eef3d8188e236d44aa5d49174a6c649</sha1>
+</file>
+<file name="Gd81-03-05S2T11AroundAround.flac" source="original">
+<format>24bit Flac</format>
+<length>524.87</length>
+<title>gd81-03-05 s2 t11 Around & Around</title>
+<mtime>1510365688</mtime>
+<size>211003192</size>
+<md5>9d9e24b5829b67a6c3acdd6b8f583187</md5>
+<crc32>cf02f8e6</crc32>
+<sha1>40adf428a4e14c5f5f6be9eaadbc78e569396b6d</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>23</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:c751988c-232c-4801-a9ac-0a81da8c5f65</external-identifier>
+</file>
+<file name="Gd81-03-05S2T11AroundAround.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t11 Around & Around</title>
+<track>23</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>190</bitrate>
+<length>08:44</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T11AroundAround.flac</original>
+<mtime>1510512020</mtime>
+<size>12434944</size>
+<md5>255d648b735b43631ecac7a6faa64269</md5>
+<crc32>266bdfd8</crc32>
+<sha1>9f52a788cf3396175c0df11c43218aa99a43baee</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T11AroundAround.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T11AroundAround.flac</original>
+<mtime>1510512173</mtime>
+<size>6837358</size>
+<md5>69ef8123c7df1d3e2de199f3a65abfe1</md5>
+<crc32>5a3052fa</crc32>
+<sha1>19e97712d5a13f5d5ee4e109d8e7c67e423029cd</sha1>
+<length>524.87</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T11AroundAround.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T11AroundAround.flac</original>
+<mtime>1510513425</mtime>
+<size>11475</size>
+<md5>b55a1c5e501564942c892807bccc9801</md5>
+<crc32>9cbf0a8b</crc32>
+<sha1>fee096b8e4f786891f7ef75a34c2530d6e799aa3</sha1>
+</file>
+<file name="Gd81-03-05S2T11AroundAround_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T11AroundAround.flac</original>
+<mtime>1510514022</mtime>
+<size>184779</size>
+<md5>2c8d8d6f9f29b1edbd26ef857d3f74e3</md5>
+<crc32>a302620a</crc32>
+<sha1>dd113f2d0347ba55340158ee90fb8ff6adc7a413</sha1>
+</file>
+<file name="Gd81-03-05S2T12UsBlues.afpk" source="derivative">
+<format>Columbia Peaks</format>
+<original>Gd81-03-05S2T12UsBlues.flac</original>
+<mtime>1510514073</mtime>
+<size>64288</size>
+<md5>b2569face521e3ffb1cbdf84303f003b</md5>
+<crc32>9ed064ce</crc32>
+<sha1>81c8d45e3652a7864d12a69eefca52d295a1e19f</sha1>
+</file>
+<file name="Gd81-03-05S2T12UsBlues.flac" source="original">
+<format>24bit Flac</format>
+<length>316.47</length>
+<title>gd81-03-05 s2 t12 US Blues</title>
+<mtime>1510365783</mtime>
+<size>126740301</size>
+<md5>8ec6ced23e0c5f40ae6def3789fe7c4e</md5>
+<crc32>f40b0684</crc32>
+<sha1>ba19f3ec4393f0d3bbfe939ed588c5c2bce4c393</sha1>
+<creator>Grateful Dead</creator>
+<album>1981-03-05 - Stanley Theater</album>
+<track>24</track>
+<height>0</height>
+<width>0</width>
+<external-identifier>urn:acoustid:9ceb1fbc-3d56-4ef3-b3a0-93cea3aa24f2</external-identifier>
+</file>
+<file name="Gd81-03-05S2T12UsBlues.mp3" source="derivative">
+<creator>Grateful Dead</creator>
+<title>gd81-03-05 s2 t12 US Blues</title>
+<track>24</track>
+<album>1981-03-05 - Stanley Theater</album>
+<bitrate>187</bitrate>
+<length>05:16</length>
+<format>VBR MP3</format>
+<original>Gd81-03-05S2T12UsBlues.flac</original>
+<mtime>1510511984</mtime>
+<size>7396352</size>
+<md5>ad143b697acefe157818aa39df2c7a08</md5>
+<crc32>f47570f0</crc32>
+<sha1>487d0d0e25cdb9dc1c03791c6b9d5c03e8d7ef81</sha1>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T12UsBlues.ogg" source="derivative">
+<format>Ogg Vorbis</format>
+<original>Gd81-03-05S2T12UsBlues.flac</original>
+<mtime>1510512532</mtime>
+<size>4074904</size>
+<md5>b1cfb5b4403c937d397c9dffffcfc143</md5>
+<crc32>d07eb30c</crc32>
+<sha1>16ae3074736cf54e7e75d454875af986c7f0c7f4</sha1>
+<length>316.47</length>
+<height>0</height>
+<width>0</width>
+</file>
+<file name="Gd81-03-05S2T12UsBlues.png" source="derivative">
+<format>PNG</format>
+<original>Gd81-03-05S2T12UsBlues.flac</original>
+<mtime>1510513536</mtime>
+<size>10352</size>
+<md5>c7b4b6e4ec9bd80edb40be1be9a6eac9</md5>
+<crc32>cf566407</crc32>
+<sha1>271e0a15b4295d33d74b0485d920d591b1386b5c</sha1>
+</file>
+<file name="Gd81-03-05S2T12UsBlues_spectrogram.png" source="derivative">
+<format>Spectrogram</format>
+<original>Gd81-03-05S2T12UsBlues.flac</original>
+<mtime>1510514012</mtime>
+<size>194607</size>
+<md5>824e10311772d9ce08d12982b249a131</md5>
+<crc32>1b2579db</crc32>
+<sha1>c49cef0af7269f5af8e845ea523d724d5adc815b</sha1>
+</file>
+<file name="__ia_thumb.jpg" source="original">
+<mtime>1615822781</mtime>
+<size>2876</size>
+<md5>3996f2892178a91902f9f039998e9611</md5>
+<crc32>9ecf337b</crc32>
+<sha1>2517350b44a4c544c74397ae491d1d3e34e3a2c0</sha1>
+<format>Item Tile</format>
+<rotation>0</rotation>
+</file>
+<file name="gd1981-03-05.139740.fob.beyer.m160.streeter.miller.clugston.flac2496_archive.torrent" source="metadata">
+<btih>49c2464142584803dafb6ca3a8142c5c8be98ae6</btih>
+<mtime>1615909308</mtime>
+<size>85540</size>
+<md5>52483797bc6f22b17d31a918e81b8dc3</md5>
+<crc32>524dffb0</crc32>
+<sha1>44b8fff96da37992ad30fd0038e8841a203e3996</sha1>
+<format>Archive BitTorrent</format>
+</file>
+<file name="gd1981-03-05.139740.fob.beyer.m160.streeter.miller.clugston.flac2496_files.xml" source="metadata">
+<format>Metadata</format>
+<md5>a411400e675369eff5836cbd2033b6de</md5>
+<summation>md5</summation>
+</file>
+<file name="gd1981-03-05.139740.fob.beyer.m160.streeter.miller.clugston.flac2496_meta.xml" source="metadata">
+<mtime>1615909306</mtime>
+<size>4054</size>
+<format>Metadata</format>
+<md5>a45ab6e4e74571b25267f5ba132f88a8</md5>
+<crc32>fd02b378</crc32>
+<sha1>a57727a0d50a0cab16376a6020d0567565e2158e</sha1>
+</file>
+<file name="gd1981-03-05.139740.fob.beyer.m160.streeter.miller.clugston.flac2496_reviews.xml" source="original">
+<mtime>1615909305</mtime>
+<size>571</size>
+<md5>cfc70b529d8c677ea104afb252d83f3f</md5>
+<crc32>bba5ad5a</crc32>
+<sha1>cd8ee2122782386f0a679fcb1222669afbfc9e24</sha1>
+<format>Metadata</format>
+</file>
+<file name="gd1981-03-05.fob.beyer.m160.streeter.miller.clugston.flac2496.ffp" source="original">
+<format>Flac FingerPrint</format>
+<mtime>1510365787</mtime>
+<size>1690</size>
+<md5>36765a7d53f850a54c7766b068fb2fb9</md5>
+<crc32>b5b2ff01</crc32>
+<sha1>b7c289811f82980d76a28427ab964d2c82e1ffc1</sha1>
+</file>
+<file name="gd1981-03-05.fob.beyer.m160.streeter.miller.clugston.flac2496.md5" source="original">
+<format>Checksums</format>
+<mtime>1510365797</mtime>
+<size>1714</size>
+<md5>02c9d2c0f653673f005b57853fbbeebf</md5>
+<crc32>5ceb5a31</crc32>
+<sha1>a7eca0847610feb948fa49862a446ed5af729717</sha1>
+</file>
+<file name="gd1981-03-05.fob.beyer.m160.streeter.miller.clugston.flac2496.txt" source="original">
+<format>Text</format>
+<mtime>1510363168</mtime>
+<size>4142</size>
+<md5>bb16aeab61fa9a50b9637933fcc6b7d8</md5>
+<crc32>7ddb6f37</crc32>
+<sha1>f5c57337d514d8cfddfc06732050eea1cdbddfee</sha1>
+</file>
+</files>
